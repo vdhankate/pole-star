@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pole-star/static/css/main.44f8b8b5.css",
+    "main.js": "/pole-star/static/js/main.468f8cd4.js",
+    "static/js/787.5ac656ec.chunk.js": "/pole-star/static/js/787.5ac656ec.chunk.js",
+    "index.html": "/pole-star/index.html",
+    "main.44f8b8b5.css.map": "/pole-star/static/css/main.44f8b8b5.css.map",
+    "main.468f8cd4.js.map": "/pole-star/static/js/main.468f8cd4.js.map",
+    "787.5ac656ec.chunk.js.map": "/pole-star/static/js/787.5ac656ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f8b8b5.css",
+    "static/js/main.468f8cd4.js"
+  ]
+}
